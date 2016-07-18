@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+MyPython
+.git
+DLLs
+Include
+Lib
+Scripts
+tcl
+db.sqlite3
+.DS_Store
