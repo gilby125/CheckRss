@@ -1,0 +1,1 @@
+python.exe D:\∞≥¿Œ\workspace\RSS\MyRss.py
